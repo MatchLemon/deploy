@@ -1,0 +1,16 @@
+{
+  "name": "conf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "d": "node ./load.js"
+  },
+  "author": "hm",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^3.10.0",
+    "swig": "^1.4.2"
+  }
+}

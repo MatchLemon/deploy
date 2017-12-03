@@ -1,0 +1,14 @@
+server:
+  port:
+    8080
+mongodb:
+  database: house_property
+  host: 127.0.0.1
+  port: 27017
+  username: hourse
+  password: fpw3YNz3uRu
+mvc:
+  staticPathPattern: /resources/static
+qiniu:
+  access_key: l4bcP6bByVSJWgqOeKxHGtCyXl3L3bWlLh9wOLYu
+  secret_key: kevimwWUrbsidQLFRD00zadC0RSUt7qZOFHUW7OY
